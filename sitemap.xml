@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://wai-s.com/</loc>
+    <loc>https://wai-solutions.github.io/wais-portfolio/</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://wai-s.com/assets/bg-hero.jpg</image:loc>
+      <image:loc>https://wai-solutions.github.io/wais-portfolio/assets/bg-hero.jpg</image:loc>
       <image:title>WAI-S — Branding and Brand Experience Portfolio</image:title>
     </image:image>
   </url>

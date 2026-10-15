@@ -1,5 +1,5 @@
 # WAI-S — WAI-Solutions
-# If you deploy to a domain other than wai-s.com, update the Sitemap line below.
+# If you move this to wai-s.com (or any other domain), update the Sitemap line below.
 
 User-agent: *
 Allow: /
@@ -33,4 +33,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://wai-s.com/sitemap.xml
+Sitemap: https://wai-solutions.github.io/wais-portfolio/sitemap.xml

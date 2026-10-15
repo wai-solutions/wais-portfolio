@@ -38,8 +38,8 @@ The site is fully static — no build, no server runtime, no environment variabl
 
 ### Required after you deploy
 
-The SEO metadata is written for the canonical domain **`https://wai-s.com/`**. If you
-deploy anywhere else, update that URL in these places or search engines will index the
+The SEO metadata is written for the canonical domain **`https://wai-solutions.github.io/wais-portfolio/`**. If you
+deploy anywhere else, update the canonical URL in these places or search engines will index the
 wrong address:
 
 1. `index.html` — `<link rel="canonical">`
