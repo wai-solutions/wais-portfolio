@@ -1,0 +1,16 @@
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Editor / tooling config (machine-specific absolute paths) ----
+.claude/
+
+# ---- Build output (regenerated, not source) ----
+dist/
+
+# ---- Design sources, not needed to run or deploy the site ----
+# Print-resolution @2x brand files (~13 MB) and the original company-profile PDF.
+# Kept out of the public repo deliberately: the site only needs assets/*.jpg|png.
+assets/new assets/
+assets/_pdf-extract-superseded/
+*.pdf
